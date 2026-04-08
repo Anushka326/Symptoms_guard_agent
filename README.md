@@ -41,19 +41,19 @@
   </p>
 
   <h3>✨ Core Features</h3>
-  <h3 align="center">🚀 Features</h3>
-  <p align="center">
-   
-  <ul>
-    <li>🤖 Multi-Agent AI Pipeline</li>
-    <li>🧠 Symptom Analysis</li>
-    <li>🩺 Condition Prediction</li>
-    <li>⚠️ Risk Classification</li>
-    <li>💡 Smart Recommendations</li>
-    <li>🗄️ Cloud Database Storage</li>
-  </ul>
 
-  </p>
+  <!-- CENTERED LIST -->
+  <div style="display:inline-block; text-align:left;">
+    <ul style="list-style-position: inside;">
+      <li>🤖 Multi-Agent AI Pipeline</li>
+      <li>🧠 Symptom Analysis</li>
+      <li>🩺 Condition Prediction</li>
+      <li>⚠️ Risk Classification</li>
+      <li>💡 Smart Recommendations</li>
+      <li>🗄️ Cloud Database Storage</li>
+    </ul>
+  </div>
+
   <hr>
 
   <!-- Architecture -->
