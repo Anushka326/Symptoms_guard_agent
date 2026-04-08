@@ -41,6 +41,7 @@
   </p>
 
   <h3>✨ Core Features</h3>
+
   <ul>
     <li>🤖 Multi-Agent AI Pipeline</li>
     <li>🧠 Symptom Analysis</li>
@@ -68,6 +69,8 @@
 python main.py
   </pre>
 
-<img src="C:\Users\Administrator\OneDrive\Pictures\gen ai apac\hakathon prototype--.png" width="700">
+<p align="center">
+  <img width="1919" height="987" alt="hakathon prototype--" src="https://github.com/user-attachments/assets/4c15a1ff-386e-4607-a702-1439f3053008" />
+</p>
 </body>
 </html>
