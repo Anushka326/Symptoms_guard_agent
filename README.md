@@ -42,6 +42,8 @@
 
   <h3>✨ Core Features</h3>
   <h3 align="center">🚀 Features</h3>
+  <p align="center">
+   
   <ul>
     <li>🤖 Multi-Agent AI Pipeline</li>
     <li>🧠 Symptom Analysis</li>
@@ -51,6 +53,7 @@
     <li>🗄️ Cloud Database Storage</li>
   </ul>
 
+  </p>
   <hr>
 
   <!-- Architecture -->
